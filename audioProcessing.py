@@ -1,7 +1,7 @@
 import time
 import random
-import RPi.GPIO as GPIO # type: ignore
-import speech_recognition as sr # type: ignore
+import RPi.GPIO as GPIO
+import speech_recognition as sr
 
 # Setup GPIO
 LED_PIN = 18 
